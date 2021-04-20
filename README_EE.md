@@ -23,7 +23,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 | 4                 | TCP programming                 | Protocol design exercise (no grade)         |
 | 5                 | TCP programming                 | Protocol implementation exercise (no grade) |
 | **Eastern break** |                                 |                                             |
-| 6                 | **Test 1**                      | SMTP lab                                    |
+| 6                 | **Test 1**                      | ---                                         |
 | 7                 | SMTP                                           | SMTP lab                                    |
 | 8                 | **Web casts**: HTTP Protocol + intro to Docker | SMTP lab                                    |
 | 9                 | **Web casts**: HTTP Protocol + intro to Docker | **SMTP lab (grade, weight 1)**              |
