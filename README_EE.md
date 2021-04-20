@@ -114,7 +114,6 @@ Written test
 ## Week 7
 
 * The Simple Mail Transfer Protocol (SMTP)
-* Theory and demos on Thursday, lab on Friday
 * [Slides](./slides/03-SMTP-JER.pdf)
 
 
