@@ -5,12 +5,12 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-* Until Friday **March 26, at 1PM** (sharp), you must have submitted the Java IO lab. Procedure to submit your results will follow.
-* Tuesday**April 13**: first written test.
-  * Will take place at school.
-  * Class room: ????.
-  * Bring your laptop, fully equipped with wireshark, netcat, code samples and what you will have done in the next 2 lab sessions.
-* Tuesday March 23 and March 30: you will work on an exercise to design, then to implement a simple application-level protocol. You will not get a grade for this lab. However, you need to do the work and to understand the content in order to have a smooth experience during the first test.
+* Saturday **May 8, at 23h**: submit the SMTP lab results
+  * You work in pairs
+  * You have 3 lab sessions to do the job, BUT we strongly advise you to give it a push and to do (mot of) it this week
+ * Starting next week, we continue with HTTP and Docker, so it will be more comfortable if you put it behind you.
+* **Tuesday, April 27 and Tuesday, May 4**, I will not give a live lecture. A lot of video content was produced last year to introduce 2 key topics: HTTP and Docker. You will consume this content during these sessions and make sure that you.
+* Pay **very close attention** to these videos. Make sure that you run the experiments and practical steps yourself. Take notes. In the **next written test**, you will very likely have to solve challenges with Docker (on your machine). You must be able to read and write complete HTTP requests on paper and in a program.
 
 ## Tentative schedule
 
@@ -24,16 +24,17 @@ This is where you will find lecture notes, slides and some of the examples prese
 | 5                 | TCP programming                 | Protocol implementation exercise (no grade) |
 | **Eastern break** |                                 |                                             |
 | 6                 | **Test 1**                      | SMTP lab                                    |
-| 7                 | SMTP                            | **SMTP lab (grade, weight 1)**              |
-| 8                 | HTTP Protocol + intro to Docker | Implement a minimal HTTP client             |
-| 9                 | HTTP Protocol + intro to Docker | implement a minimal HTTP server             |
-| 10                | HTTP infrastructure             | HTTP infra lab                              |
-| 11                | HTTP infra lab (grade)          | HTTP infra lab                              |
-| 12                | **Test 2**                      | HTTP infra lab                              |
-| 13                | HTTP infra lab (grade)          | **HTTP infra lab (grade, weight 3)**        |
-| 14                | UDP programming                 | UDP Lab (orchestra)                         |
-| 15                | UDP Lab (orchestra)             | UDP Lab (orchestra)                         |
-| 16                | Semester review & exam prep     | **UDP Lab (orchestra) (grade, weight 1)**   |
+| 7                 | SMTP                                           | SMTP lab                                    |
+| 8                 | **Web casts**: HTTP Protocol + intro to Docker | SMTP lab                                    |
+| 9                 | **Web casts**: HTTP Protocol + intro to Docker | **SMTP lab (grade, weight 1)**              |
+| 10                | **Live**: HTTP infrastructure                  | HTTP infra lab                              |
+| 11                | HTTP infra lab (grade)                         | HTTP infra lab                              |
+| 12                | **Test 2**                                     | HTTP infra lab                              |
+| 13                | HTTP infra lab (grade)                         | **HTTP infra lab (grade, weight 3)**        |
+| 14                | **Live**: UDP programming                      | UDP Lab (orchestra)                         |
+| 15                | UDP Lab (orchestra)                            | UDP Lab (orchestra)                         |
+| 16                | Semester review & exam prep                    | **UDP Lab (orchestra) (grade, weight 1)**   |
+
 
 ## Repo for the labs
 
@@ -42,12 +43,11 @@ This is where you will find lecture notes, slides and some of the examples prese
 | Chill Protocol | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Chill-EE| https://www.youtube.com/playlist?list=PLfKkysTy70QaN-uez0K4UpSpVUbt8ETpk (12 webcasts, ~2 hours). *We need to update this, in order to use GitHub Actions instead of TravisCI.* Also see [this article](https://medium.com/software-engineering-heig-vd/network-programming-res-prelude-eab67078955a) on Medium. | no        |
 | Labo Java IO   | https://github.com/jehrensb/https-github.com-SoftEng-HEIGVD-Teaching-HEIGVD-RES-2021-Labo-Java-IO | 3 webcasts have been added to the RES 2021 playlist          |        |
 | Protocol design exercise | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Exercise-Protocol-Design | 1 webcast has been added to the RES 2021 playlist.           | no     |
+| SMTP                     | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Labo-SMTP | 4 webcasts have been added to the RES 2021 labo playlist.         | yes    |
 |                          |                                                              |                                                              |        |
 |                          |                                                              |                                                              |        |
 |                          |                                                              |                                                              |        |
 |                          |                                                              |                                                              |        |
-|                          |                                                              |                 
-
 
 ## Resources
 
@@ -109,13 +109,37 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Week 6
 
+Written test
+
 ## Week 7
+
+* The Simple Mail Transfer Protocol (SMTP)
+* Theory and demos on Thursday, lab on Friday
+* [Slides](./slides/03-SMTP-JER.pdf)
+
 
 ## Week 8
 
+* HTTP Protocol and Docker
+* [Lecture notes](./lectures/04-Lecture4-HTTP.md) 
+* [Slides](./slides/04-HTTPProtocol.pdf) 
+* The Docker Playlist: https://www.youtube.com/playlist?list=PLfKkysTy70QbseGZcVbpTXhas2xrXKk61
+* The HTTP Playlist: https://www.youtube.com/playlist?list=PLfKkysTy70QZG5eUH6nyLrUZLn8Hnlf86
+
+
 ## Week 9
 
+* HTTP Protocol and Docker
+* [Lecture notes](./lectures/04-Lecture4-HTTP.md) 
+* [Slides](./slides/04-HTTPProtocol.pdf) 
+* The Docker Playlist: https://www.youtube.com/playlist?list=PLfKkysTy70QbseGZcVbpTXhas2xrXKk61
+* The HTTP Playlist: https://www.youtube.com/playlist?list=PLfKkysTy70QZG5eUH6nyLrUZLn8Hnlf86
+
 ## Week 10
+
+* HTTP infrastructure
+* [Lecture notes](./lectures/05-Lecture5-WebInfrastructure.md) 
+* [Slides](./slides/05-WebInfrastructures.pdf) 
 
 ## Week 11
 
