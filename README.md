@@ -5,12 +5,9 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-* Sunday, **May 2nd** (23 PM): submit the SMTP lab results
+* Sunday, **May 30th** (23 PM): submit the Web Infrastructure lab results
   * You work in pairs
-  * You have 3 lab sessions to do the job, BUT we strongly advise you to give it a push and to do (mot of) it this week
-  * Starting next week, we continue with HTTP and Docker, so it will be more comfortable if you put it behind you.
-* **Thursday, April 22nd and Thursday, April 29th**, I will not give a live lecture. A lot of video content was produced last year to introduce 2 key topics: HTTP and Docker. You will consume this content during these sessions and make sure that you.
-* Pay **very close attention** to these videos. Make sure that you run the experiments and practical steps yourself. Take notes. In the **next written test**, you will very likely have to solve challenges with Docker (on your machine). You must be able to read and write complete HTTP requests on paper and in a program.
+* **Thursday, May 20th**, second written test. SMTP and HTTP protocols (slides, videos and lecture notes) and docker (videos). The "Web Infrastructures" slides and lecture notes are not part of the test.
 
 ## Tentative schedule
 
@@ -25,24 +22,24 @@ This is where you will find lecture notes, slides and some of the examples prese
 | **Eastern break** |                                                |                                             |
 | 7                 | SMTP                                           | SMTP lab                                    |
 | 8                 | **Web casts**: HTTP Protocol + intro to Docker | SMTP lab                                    |
-| 9                 | **Web casts**: HTTP Protocol + intro to Docker | **SMTP lab (grade, weight 1)**              |
-| 10                | **Live**: HTTP infrastructure                  | HTTP infra lab                              |
-| 11                | HTTP infra lab (grade)                         | HTTP infra lab                              |
-| 12                | **Test 2**                                     | HTTP infra lab                              |
-| 13                | HTTP infra lab (grade)                         | **HTTP infra lab (grade, weight 3)**        |
-| 14                | **Live**: UDP programming                      | UDP Lab (orchestra)                         |
-| 15                | UDP Lab (orchestra)                            | UDP Lab (orchestra)                         |
-| 16                | Semester review & exam prep                    | **UDP Lab (orchestra) (grade, weight 1)**   |
+| 9 (29/04)         | **Web casts**: HTTP Protocol + intro to Docker | **SMTP lab (grade, weight 1)**              |
+| 10 (06/05)        | **Live**: HTTP infrastructure                  | HTTP infra lab                              |
+| 11 (13/05)        | Ascencion                                      | HTTP infra lab                              |
+| 12 (20/05)        | **Test 2**                                     | HTTP infra lab                              |
+| 13 (27/05)        | HTTP infra lab (grade)                         | **HTTP infra lab (grade, weight 3)**        |
+| 14 (03/06)        | **Live**: UDP programming                      | UDP Lab (orchestra)                         |
+| 15 (10/06)        | UDP Lab (orchestra)                            | UDP Lab (orchestra)                         |
+| 16 (17/06)        | Semester review & exam prep                    | **UDP Lab (orchestra) (grade, weight 1)**   |
 
 ## Repo for the labs
 
 | Title                    | Repo (new repos need to be created for 2021)                 | Webcasts                                                     | Graded |
 | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| Chill Protocol           | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Chill | https://www.youtube.com/playlist?list=PLfKkysTy70QaN-uez0K4UpSpVUbt8ETpk (12 webcasts, ~2 hours). *We need to update this, in order to use GitHub Actions instead of TravisCI.* Also see [this article](https://medium.com/software-engineering-heig-vd/network-programming-res-prelude-eab67078955a) on Medium. | no     |
+| Chill Protocol           | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Chill | [RES 2021 Playlist](https://www.youtube.com/playlist?list=PLfKkysTy70QY_C0t9avTuEsLVVObxOtTM) (12 webcasts, ~2 hours). *We need to update this, in order to use GitHub Actions instead of TravisCI.* Also see [this article](https://medium.com/software-engineering-heig-vd/network-programming-res-prelude-eab67078955a) on Medium. | no     |
 | Labo Java IO             | https://github.com/SoftEng-HEIGVD/https-github.com-SoftEng-HEIGVD-Teaching-HEIGVD-RES-2021-Labo-Java-IO | 3 webcasts have been added to the RES 2021 playlist          | yes    |
 | Protocol design exercise | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Exercise-Protocol-Design | 1 webcast has been added to the RES 2021 playlist.           | no     |
 | SMTP                     | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Labo-SMTP | 4 webcasts have been added to the RES 2021 playlist.         | yes    |
-|                          |                                                              |                                                              |        |
+| Web Infrastructure       | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Labo-HTTPInfra | 12 webcasts have been added to the RES 2021 playlist         | yes    |
 |                          |                                                              |                                                              |        |
 |                          |                                                              |                                                              |        |
 |                          |                                                              |                                                              |        |
@@ -137,9 +134,15 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Week 11
 
+* No lecture this week, because of the Ascencion break
+* However, you are encouraged to continue working on the HTTP Infrastructure lab. It is time consuming, but it is not hard. It is well guided (the webcasts guide you through the process). But, as always, be careful: everyone in the group actually does the work and understand the procedures. Otherwise, you will have a hard time at the exam.
+
 ## Week 12
 
 * Test 2
+* This test will focus on the SMTP and HTTP protocols, as well as on Docker.
+* We will keep the content of the "HTTP infrastructure" lecture for the exam.
+* There will very probably be a practical part, like for the first test. So make sure that you have a running Docker installation on your machine, that you have the toolset presented in the videos (e.g. curl, postman) ready to be used. 
 
 ## Week 13
 
