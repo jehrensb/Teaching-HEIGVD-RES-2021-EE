@@ -25,7 +25,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 | 7                 | SMTP                                           | SMTP lab                                    |
 | 8                 | **Web casts**: HTTP Protocol + intro to Docker | SMTP lab                                    |
 | 9                 | **Web casts**: HTTP Protocol + intro to Docker | **SMTP lab (grade, weight 1)**              |
-| 10 (11/05)        | **Live**: HTTP infrastructure                  | HTTP infra lab                              |
+| 10 (11/05)        | HTTP infrastructure                            | HTTP infra lab                              |
 | 11 (18/05)        | HTTP infra lab                                 | HTTP infra lab                              |
 | 12 (25/05)        | **Test 2**                                     | HTTP infra lab                              |
 | 13 (01/06)        | HTTP infra lab                                 | **HTTP infra lab (grade, weight 3)**        |
