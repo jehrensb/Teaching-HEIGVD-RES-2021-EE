@@ -136,7 +136,7 @@ Written test
 
 * HTTP infrastructure
 * [Lecture notes](./lectures/05-Lecture5-WebInfrastructure.md) 
-* [Slides](./slides/05-WebInfrastructures-p3-JER.pdf) 
+* [Slides](./slides/05-WebInfrastructures-JER.pdf) 
 * The work on the HTTP infrastructure is not hard, but time consuming. You will be working in pairs, but be careful that each student does the work and understands the procedure. Otherwise, you will have a hard time at the exam.
 
 ## Week 11
