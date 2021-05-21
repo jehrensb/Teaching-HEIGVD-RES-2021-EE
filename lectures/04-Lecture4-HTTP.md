@@ -529,6 +529,3 @@ Here is a **non-exhausive list of questions** that you can expect in the written
 
 * What are **cookies** in the context of the HTTP protocol? Explain why they are useful. Explain how they work at the protocol level (explain what the client and the server have to do, give examples of requests and responses).
 
-
-
->>>>>>> upstream/main
