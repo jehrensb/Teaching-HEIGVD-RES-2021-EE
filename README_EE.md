@@ -5,10 +5,8 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-* Saturday **June 5, at 23h**: submit the Web Infrastructure lab results
+* Sunday, **June 20th** (23 PM): submit the UDP Orchestra lab
   * You work in pairs
-  * You will have 4 lab sections and 2 course session to work in this lab.
-* **Tuesday, May 25th**, second written test. SMTP and HTTP protocols (slides, videos and lecture notes) and docker (videos). The "Web Infrastructures" slides and lecture notes are not part of the test.
 
 ## Tentative schedule
 
