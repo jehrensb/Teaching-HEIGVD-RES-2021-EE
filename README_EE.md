@@ -29,7 +29,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 | 11 (18/05)        | HTTP infra lab                                 | HTTP infra lab                              |
 | 12 (25/05)        | **Test 2**                                     | HTTP infra lab                              |
 | 13 (01/06)        | HTTP infra lab                                 | **HTTP infra lab (grade, weight 3)**        |
-| 14 (08/06)        | **Live**: UDP programming                      | UDP Lab (orchestra)                         |
+| 14 (08/06)        | **Course**: UDP programming                      | UDP Lab (orchestra)                         |
 | 15 (15/06)        | UDP Lab (orchestra)                            | **UDP Lab (orchestra) (grade, weight 1)**   |
 
 
@@ -42,9 +42,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 | Protocol design exercise | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Exercise-Protocol-Design | 1 webcast has been added to the RES 2021 playlist.           | no     |
 | SMTP                     | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Labo-SMTP | 4 webcasts have been added to the RES 2021 labo playlist.         | yes    |
 | Web Infrastructure       | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Labo-HTTPInfra | 12 webcasts have been added to the RES 2021 playlist         | yes    |
-|                          |                                                              |                                                              |        |
-|                          |                                                              |                                                              |        |
-|                          |                                                              |                                                              |        |
+| Orchestra                | https://github.com/jehrensb/Teaching-HEIGVD-RES-2020-Labo-Orchestra | Procedure de validation: https://youtu.be/yjDTJYgSE8M        | yes    |
 
 ## Resources
 
@@ -150,8 +148,15 @@ Written test
 
 ## Week 13
 
+* Work on Web Infra lab
+
 ## Week 14
+
+* UDP
+* Orchestra lab
+* UDP example (themometers): https://github.com/SoftEng-HEIGVD/Teaching-Docker-UDP-sensors
 
 ## Week 15
 
+* Work on orchestra lab
 
