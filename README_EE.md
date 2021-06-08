@@ -5,7 +5,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-* Sunday, **June 20th** (23 PM): submit the UDP Orchestra lab
+* Sunday, **June 27th** (23 PM): submit the UDP Orchestra lab
   * You work in pairs
 
 ## Tentative schedule
@@ -152,7 +152,7 @@ Written test
 
 * UDP
 * Orchestra lab
-* UDP example (themometers): https://github.com/SoftEng-HEIGVD/Teaching-Docker-UDP-sensors
+* UDP example (thermometers): https://github.com/SoftEng-HEIGVD/Teaching-Docker-UDP-sensors
 
 ## Week 15
 
